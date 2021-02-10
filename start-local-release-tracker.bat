@@ -1,0 +1,1 @@
+npm run start config.local-release-tracker.json

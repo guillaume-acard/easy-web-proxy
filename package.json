@@ -1,0 +1,17 @@
+{
+  "name": "easy-web-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js 'easy-app-proxy'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "express": "^4.16.2",
+    "http-proxy-middleware": "^0.17.4",
+    "simple-node-logger": "^0.93.33"
+  }
+}
